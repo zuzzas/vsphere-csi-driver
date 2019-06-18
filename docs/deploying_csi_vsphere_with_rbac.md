@@ -90,7 +90,7 @@ There are 2 options for providing `csi-vsphere` with vCenter credentials:
 
 It's highly recommended that you store your vCenter credentials in a Kubernetes secret for added security.
 
-An example [vsphere.conf](https://github.com/kubernetes-sigs/vsphere-csi-drivar/raw/master/manifests//vsphere.conf)
+An example [vsphere.conf](https://github.com/kubernetes-sigs/vsphere-csi-driver/raw/master/manifests//vsphere.conf)
  in the [manifests](https://github.com/kubernetes-sigs/vsphere-csi-driver/tree/master/manifests/) directory for reference.
 
 #### Method 1: Storing vCenter Credentials in a Kubernetes Secret
